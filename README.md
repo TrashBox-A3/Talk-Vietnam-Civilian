@@ -1,1 +1,2 @@
 # Talk-Vietnam-Civilian
+ベトナム村民にace3インタラクションメニューから話かけることができます
